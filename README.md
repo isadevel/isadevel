@@ -1,11 +1,10 @@
-<div align="center">
+
 ### :✨Olá! Eu sou a Isabela Rodrigues.✨:
 ### :✨Técnica de Manutenção e Suporte em Informática✨:
 
 - ✨Pretendo cursar Engenharia de Software✨
 - ✨Atualmente estudando Python e JavaScript✨
 - ✨Pronouns: Ela/Dela✨
-<div align="center">
   
   <a href="https://github.com/isadevel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadevel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
