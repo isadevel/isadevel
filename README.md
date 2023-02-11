@@ -1,9 +1,9 @@
 
-### :✨Olá! Eu sou a Isabela Rodrigues.✨:
-### :✨Técnica de Manutenção e Suporte em Informática✨:
+### :✨Olá! Eu sou a Isa.✨:
+### :✨Em processo de desenvolvimento✨:
 
-- ✨Pretendo cursar Engenharia de Software✨
-- ✨Atualmente estudando Python e JavaScript✨
+- ✨cursando Engenharia de Software✨
+- ✨Atualmente trabalhando como aprendiz na Equinix✨
 - ✨Pronouns: Ela/Dela✨
 
 ##
