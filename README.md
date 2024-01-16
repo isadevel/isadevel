@@ -2,7 +2,7 @@
 ### :✨Olá! Eu sou a Isa.✨:
 ### :✨Em processo de desenvolvimento✨:
 
-- ✨cursando Engenharia de Software✨
+- ✨cursando Análise e Desenvolvimento de Sistemas✨
 - ✨Atualmente trabalhando como aprendiz na Equinix✨
 - ✨Pronouns: Ela/Dela✨
 
