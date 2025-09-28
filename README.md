@@ -3,7 +3,7 @@
 ### :✨Em processo de desenvolvimento✨:
 
 - ✨cursando Análise e Desenvolvimento de Sistemas✨
-- ✨Atualmente trabalhando como aprendiz na Equinix✨
+- ✨Atualmente trabalhando como Analista Jr na Omie✨
 - ✨Pronouns: Ela/Dela✨
 
 ##
